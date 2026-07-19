@@ -128,7 +128,7 @@ SpeakForge-AI
 ## Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/SpeakForge-AI.git
+git@github.com:rahul-official-codebase/SpeakForgeAI.git
 cd SpeakForge-AI
 ```
 
